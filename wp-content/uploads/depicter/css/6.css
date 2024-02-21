@@ -1,0 +1,216 @@
+
+.depicter-revert .depicter-6-element-16{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-6-element-16 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-6-element-17 .depicter-bullet-item{
+	background-color:rgba(0,0,0,0.5);
+	border-radius:5px 5px 5px 5px ;
+	width:9px;
+	height:9px;
+}
+.depicter-6-element-17 .depicter-bullet-item.depicter-bullet-active{
+	background-color:rgba(0,0,0,1);
+}
+.depicter-6-element-17 .depicter-bullets-wrapper{
+	gap:5px;
+	flex-direction:row;
+}
+.depicter-revert .depicter-6-element-18{
+	border-width:2px;
+	border-style:solid;
+	border-color:#AAAAAA;
+	border-radius:50% 50% 50% 50%;
+}
+.depicter-6-element-18 .depicter-symbol-container{
+	fill:#000000;
+}
+.depicter-revert .depicter-6-element-14{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:400;
+	background-color:#954040;
+	border-radius:20px;
+}
+.depicter-revert .depicter-6-element-13{
+	font-size:35px;
+	color:#954040;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-13:not(.depicter-hover-off){
+	transition-property:none;
+}
+.depicter-revert .depicter-6-element-12{
+	font-size:35px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-12:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-12:not(.depicter-hover-off):hover {
+	color:#000000;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-element-9{
+	font-size:30px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-8{
+	font-size:35px;
+	color:#954040;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-8:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-8:not(.depicter-hover-off):hover {
+	color:#6A4E3C;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-section-1 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-6-element-28{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:400;
+	background-color:#954040;
+	border-radius:20px;
+}
+.depicter-revert .depicter-6-element-27{
+	font-size:35px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-27:not(.depicter-hover-off){
+	transition-property:none;
+}
+.depicter-revert .depicter-6-element-26{
+	font-size:35px;
+	color:#954040;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-26:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-26:not(.depicter-hover-off):hover {
+	color:#000000;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-element-25{
+	font-size:30px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-24{
+	font-size:35px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-24:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-24:not(.depicter-hover-off):hover {
+	color:#6A4E3C;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-section-23 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+.depicter-revert .depicter-6-element-36{
+	font-size:16px;
+	text-align:center;
+	color:#FFFFFF;
+	font-family:"Roboto";
+	font-weight:400;
+	background-color:#954040;
+	border-radius:20px;
+}
+.depicter-revert .depicter-6-element-35{
+	font-size:35px;
+	color:#954040;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-35:not(.depicter-hover-off){
+	transition-property:none;
+}
+.depicter-revert .depicter-6-element-34{
+	font-size:35px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-34:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-34:not(.depicter-hover-off):hover {
+	color:#000000;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-element-33{
+	font-size:30px;
+	color:#000000;
+	font-family:"Open Sans";
+	font-weight:300;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-32{
+	font-size:35px;
+	color:#954040;
+	font-family:"Open Sans";
+	font-weight:600;
+	line-height:120%;
+	background-color:transparent;
+}
+.depicter-revert .depicter-6-element-32:not(.depicter-hover-off){
+	transition:all ease 1s;
+}
+.depicter-revert .depicter-6-element-32:not(.depicter-hover-off):hover {
+	color:#6A4E3C;
+	border-color:#000000;
+}
+.depicter-revert .depicter-6-section-31 .depicter-section-background{
+	background-color:#FFFFFF;
+}
+
